@@ -1,0 +1,31 @@
+Подозрительная попытка входа в аккаунт auditvella01@mail.ru через стороннее приложение
+	
+Если это были не вы или вы не помните, в каком приложении был указан пароль, измените его: https://account.mail.ru/security/password?open-change-password=1&utm_medium=ltr&utm_source=gmailer_SRV&utm_campaign=Security&utm_content=external_app&utm_term=login, чтобы обезопасить аккаунт.
+ 
+Узнайте, как защитить аккаунт на сайте «Безопасная почта от Mail.ru»: https://security.mail.ru/?utm_source=gmailer_SRV&utm_medium=ltr&utm_campaign=Security&utm_content=external_app&utm_term=security.
+ 
+Что произошло?
+Мы предотвратили попытку входа по основному паролю в ваш аккаунт Mail.ru через стороннее приложение — программу для работы с Почтой
+ 
+Как войти в аккаунт через стороннее приложение?
+Создайте в настройках аккаунта на сайте Mail.ru специальный пароль, уникальный для каждого стороннего приложения, с помощью которого вы хотите читать Почту. 
+ 
+1. Войдите в аккаунт auditvella01@mail.ru: https://account.mail.ru/login?utm_source=gmailer_SRV&utm_medium=ltr&utm_campaign=Security&utm_content=external_app&utm_term=login через Mail.ru на компьютере.
+	 
+2. Перейдите в настройки Mail ID: https://id.mail.ru/?utm_source=gmailer_SRV&utm_medium=ltr&utm_campaign=Security&utm_content=external_app&utm_term=settings → «Безопасность: https://id.mail.ru/security?utm_source=gmailer_SRV&utm_medium=ltr&utm_campaign=Security&utm_content=external_app&utm_term=login» → «Пароли для внешних приложений: https://account.mail.ru/user/2-step-auth/passwords?utm_source=gmailer_SRV&utm_medium=ltr&utm_campaign=Security&utm_content=external_app&utm_term=password».
+	 
+3. Нажмите «Добавить: https://account.mail.ru/user/2-step-auth/passwords/add?utm_source=gmailer_SRV&utm_medium=ltr&utm_campaign=Security&utm_content=add&utm_term=login».
+	 
+4. Придумайте название, чтобы не забыть, для какого приложения и устройства этот пароль предназначен.
+	 
+5. Скопируйте новый пароль и введите его в стороннем приложении.
+	
+Подробнее →: https://help.mail.ru/mail/security/protection/external 
+	
+Запоминать или записывать пароль приложения не требуется, вы можете сгенерировать новый пароль приложения или удалить старый, если это будет необходимо.
+  
+Вы получили это письмо, потому что являетесь пользователем Mail‌.ru на основании Пользовательского соглашения: https://help.mail.ru/legal/terms/mail/ua?utm_source=gmailer_SRV&utm_medium=ltr&utm_campaign=Security&utm_content=external_app&utm_term=terms
+ 
+Copyright 2023 VK, Москва — Все права защищены.
+ 
+Служба поддержки: https://help.mail.ru/?utm_source=web&utm_medium=ltr&utm_campaign=Security&utm_term=help Mail ID: https://id.mail.ru/?utm_source=gmailer_SRV&utm_medium=ltr&utm_campaign=Security&utm_content=external_app&utm_term=mail_id
