@@ -13,8 +13,6 @@ class Parse:
 	
 	def parse_messages(self, label):
 		host = "imap.mail.ru"
-		# username = "auditvella01@mail.ru"
-		# password = 'nFbcFLyMjuXv1kgrLPV3'
 
 		username = self.username
 		password = self.password
