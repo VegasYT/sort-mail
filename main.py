@@ -252,7 +252,7 @@ class Ui_MainWindow(object):
 		MainWindow.setSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Fixed)
 		self.currentItem = None
 		self.currentWidget = None
-		self.settings = QtCore.QSettings("AuditVella", "Audit")
+		self.settings = QtCore.QSettings("AuditA", "Audit")
 		self.frame_theme = "#C4C4C4"
 		self.label_theme = "#262626"
 		self.select_theme = "#F5F5F5"
